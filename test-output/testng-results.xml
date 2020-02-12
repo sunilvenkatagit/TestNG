@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-02-09T17:23:46Z" name="Default suite" finished-at="2020-02-09T17:24:51Z" duration-ms="65271">
+    <groups>
+    </groups>
+    <test started-at="2020-02-09T17:23:46Z" name="Default test" finished-at="2020-02-09T17:24:51Z" duration-ms="65271">
+      <class name="testScripts.TC_1_LoginScenarios">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testScripts.TC_1_LoginScenarios@2133814f]" started-at="2020-02-09T17:23:46Z" name="setUp" finished-at="2020-02-09T17:24:26Z" duration-ms="39915" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="successfullLogin()[pri:0, instance:testScripts.TC_1_LoginScenarios@2133814f]" started-at="2020-02-09T17:24:26Z" name="successfullLogin" description="Description: Valid login details are provided" finished-at="2020-02-09T17:24:49Z" duration-ms="22835" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- successfullLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testScripts.TC_1_LoginScenarios@2133814f]" started-at="2020-02-09T17:24:49Z" name="tearDown" finished-at="2020-02-09T17:24:51Z" duration-ms="2347" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testScripts.TC_1_LoginScenarios -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
